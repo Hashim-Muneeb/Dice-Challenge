@@ -1,0 +1,27 @@
+body{
+    background-color: #393E46;
+    padding: 10px;
+}
+.abc{
+    color:  #4ECCA3;
+    text-align: center;
+}
+h1{
+    font-size: 8rem;
+    padding-bottom: 50px;
+    
+}
+footer{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.xyz{
+   padding: 40px 210px 20px 240px ;
+
+}
+.win{
+    font-size: 3rem;
+    color: aqua;
+    text-align: center;
+}
