@@ -1,2 +1,3 @@
 # Dice-Challenge
-Simple Dice game using Html , CSS and JavaScript
+Simple Dice game using Html , CSS and JavaScript for practice 
+
